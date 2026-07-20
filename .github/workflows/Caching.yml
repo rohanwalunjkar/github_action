@@ -1,4 +1,4 @@
-name: Artifact Example
+name: Caching
 
 on:
   workflow_dispatch:
